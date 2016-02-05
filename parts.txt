@@ -1,0 +1,15 @@
+Pi-
+    case?
+    screen?
+    power?
+Arduino-
+    ethernet?
+    screen?
+    power?
+    case?
+Tap
+    ports?
+    box?
+    cables?
+Beaglebone
+    ????
